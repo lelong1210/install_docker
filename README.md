@@ -1,6 +1,6 @@
 # install_docker
 
-#debian 11
+#debian 11 yes
 
 deb http://deb.debian.org/debian bullseye main contrib non-free 
 deb-src http://deb.debian.org/debian bullseye main contrib non-free
